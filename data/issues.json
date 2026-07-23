@@ -1,0 +1,1128 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "title": "南门电动车停放秩序混乱，急需新建充电车棚",
+      "description": "物业不作为，导致电动车停车秩序混乱，车辆乱停堵通道、占用消防通道、占用人行步道，尤其是南门无电动车充电车棚，急需新建。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "南门",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "停车",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/1/original/20260706-issue-1-1.jpeg",
+          "thumb": "/images/issues/1/original/20260706-issue-1-1.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 2,
+      "title": "楼栋门禁系统未启用且门禁监控系统故障",
+      "description": "小区楼栋门禁系统没启用，门禁监控系统故障。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "门禁",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/2/original/20260706-issue-9-18.jpeg",
+          "thumb": "/images/issues/2/original/20260706-issue-9-18.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 3,
+      "title": "急需搬迁10号楼一楼垃圾存放点",
+      "description": "急需搬迁10号楼一楼（每天70多桶垃圾）垃圾存放点。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "10号楼一楼",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "垃圾站",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/3/original/20260706-issue-19-40.jpeg",
+          "thumb": "/images/issues/3/original/20260706-issue-19-40.jpeg"
+        },
+        {
+          "original": "/images/issues/3/original/20260706-issue-19-41.jpeg",
+          "thumb": "/images/issues/3/original/20260706-issue-19-41.jpeg"
+        },
+        {
+          "original": "/images/issues/3/original/20260706-issue-19-42.jpeg",
+          "thumb": "/images/issues/3/original/20260706-issue-19-42.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 4,
+      "title": "物业服务电话公示不醒目",
+      "description": "物业服务电话公示不醒目。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区公共区域",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "物业服务",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/4/original/20260706-issue-32-59.jpeg",
+          "thumb": "/images/issues/4/original/20260706-issue-32-59.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 6,
+      "title": "小区南门买货摊贩占用人行通道",
+      "description": "小区南门买货的占小区人行通道。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区南门",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "安全管理",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/6/original/20260706-issue-52-75.jpeg",
+          "thumb": "/images/issues/6/original/20260706-issue-52-75.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 7,
+      "title": "南大门小区门牌损坏且长期不亮",
+      "description": "南大门小区门牌损坏，长期不亮。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "南大门",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 2,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/7/original/20260706-issue-10-19.jpeg",
+          "thumb": "/images/issues/7/original/20260706-issue-10-19.jpeg"
+        },
+        {
+          "original": "/images/issues/7/original/20260706-issue-10-20.jpeg",
+          "thumb": "/images/issues/7/original/20260706-issue-10-20.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 8,
+      "title": "小区竹林不规范、绿化设施维护差",
+      "description": "小区竹林不规范，绿化设施维护差。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区竹林区域",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "绿化",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/8/original/20260706-issue-45-69.jpeg",
+          "thumb": "/images/issues/8/original/20260706-issue-45-69.jpeg"
+        },
+        {
+          "original": "/images/issues/8/original/20260706-issue-45-70.jpeg",
+          "thumb": "/images/issues/8/original/20260706-issue-45-70.jpeg"
+        },
+        {
+          "original": "/images/issues/8/original/20260706-issue-45-71.jpeg",
+          "thumb": "/images/issues/8/original/20260706-issue-45-71.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 9,
+      "title": "小区草坪杂草丛生、绿化护栏未维修",
+      "description": "小区草坪杂草丛生，绿化护栏不维修。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区草坪区域",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "绿化",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/9/original/20260706-issue-46-72.jpeg",
+          "thumb": "/images/issues/9/original/20260706-issue-46-72.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 10,
+      "title": "小区木桥损坏严重，小圆塔丢失、断裂歪斜",
+      "description": "小区木桥损坏严重，小圆塔丢失，断裂、歪了。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "水系木桥",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 6,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/10/original/20260706-issue-11-21.jpeg",
+          "thumb": "/images/issues/10/original/20260706-issue-11-21.jpeg"
+        },
+        {
+          "original": "/images/issues/10/original/20260706-issue-11-22.jpeg",
+          "thumb": "/images/issues/10/original/20260706-issue-11-22.jpeg"
+        },
+        {
+          "original": "/images/issues/10/original/20260706-issue-11-23.jpeg",
+          "thumb": "/images/issues/10/original/20260706-issue-11-23.jpeg"
+        }
+      ],
+      "videos": [
+        "/images/issues/10/videos/1784817486639_4be570dd.mp4"
+      ],
+      "rectificationRecords": []
+    },
+    {
+      "id": 11,
+      "title": "9号楼标志牌脱落、楼梯墙面渗水、21号楼过道护栏损坏",
+      "description": "9号楼标志牌脱落，楼梯墙面渗水，墙皮脱落，21号楼过道护栏损坏。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "9号楼及21号楼",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/11/original/20260706-issue-12-24.jpeg",
+          "thumb": "/images/issues/11/thumb/20260706-issue-12-24.jpg"
+        },
+        {
+          "original": "/images/issues/11/original/20260706-issue-12-25.jpeg",
+          "thumb": "/images/issues/11/original/20260706-issue-12-25.jpeg"
+        },
+        {
+          "original": "/images/issues/11/original/20260706-issue-12-26.jpeg",
+          "thumb": "/images/issues/11/original/20260706-issue-12-26.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 12,
+      "title": "小区楼栋地面污渍未清理",
+      "description": "小区楼栋地面污渍不清理。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋公共区域",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "卫生",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/12/original/20260706-issue-20-43.jpeg",
+          "thumb": "/images/issues/12/original/20260706-issue-20-43.jpeg"
+        },
+        {
+          "original": "/images/issues/12/original/20260706-issue-20-44.jpeg",
+          "thumb": "/images/issues/12/original/20260706-issue-20-44.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 13,
+      "title": "保洁捡废品及消防栓、楼道窗户、过廊护栏不清洁",
+      "description": "小区保洁严禁捡废品，消防栓玻璃和楼道里窗户玻璃及过廊护栏不清洁。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "楼道及公共过廊",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "卫生",
+      "responsibleUnit": "物业公司",
+      "viewCount": 3,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/13/original/20260706-issue-24-51.jpeg",
+          "thumb": "/images/issues/13/original/20260706-issue-24-51.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 14,
+      "title": "小区电梯脏乱差，大门口清洁维护差",
+      "description": "小区电梯里脏乱差，小区大门口清洁维护差。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "电梯及小区大门口",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "卫生",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/14/original/20260706-issue-25-17.jpeg",
+          "thumb": "/images/issues/14/original/20260706-issue-25-17.jpeg"
+        },
+        {
+          "original": "/images/issues/14/original/20260706-issue-25-52.jpeg",
+          "thumb": "/images/issues/14/original/20260706-issue-25-52.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 16,
+      "title": "小区水系大部分无水、失管失修",
+      "description": "小区水系大部分无水，失管失修。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区水系",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 3,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/16/original/20260706-issue-27-53.jpeg",
+          "thumb": "/images/issues/16/original/20260706-issue-27-53.jpeg"
+        }
+      ],
+      "videos": [
+        "/images/issues/16/videos/1784817046098_460f09c2.mp4"
+      ],
+      "rectificationRecords": []
+    },
+    {
+      "id": 17,
+      "title": "小区水系鹅卵石严重脱落",
+      "description": "小区水系鹅卵石严重脱落。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区水系",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/17/original/20260706-issue-28-54.jpeg",
+          "thumb": "/images/issues/17/original/20260706-issue-28-54.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 18,
+      "title": "小区水系栈道瓷砖脱落",
+      "description": "小区水系栈道瓷砖脱落。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区水系栈道",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 2,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/18/original/20260706-issue-14-29.jpeg",
+          "thumb": "/images/issues/18/original/20260706-issue-14-29.jpeg"
+        },
+        {
+          "original": "/images/issues/18/original/20260706-issue-14-30.jpeg",
+          "thumb": "/images/issues/18/original/20260706-issue-14-30.jpeg"
+        },
+        {
+          "original": "/images/issues/18/original/20260706-issue-14-31.jpeg",
+          "thumb": "/images/issues/18/original/20260706-issue-14-31.jpeg"
+        }
+      ],
+      "videos": [
+        "/images/issues/18/videos/1784817350871_61cb2a1.mp4"
+      ],
+      "rectificationRecords": []
+    },
+    {
+      "id": 19,
+      "title": "小区栈道灯带脱落、防腐木失修",
+      "description": "小区栈道灯带脱落，防腐木失修，存在安全风险。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区栈道",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/19/original/20260706-issue-15-32.jpeg",
+          "thumb": "/images/issues/19/original/20260706-issue-15-32.jpeg"
+        },
+        {
+          "original": "/images/issues/19/original/20260706-issue-15-33.jpeg",
+          "thumb": "/images/issues/19/original/20260706-issue-15-33.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 20,
+      "title": "小区多处灯箱损坏",
+      "description": "小区多处灯箱损坏。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区公共区域",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/20/original/20260706-issue-16-34.jpeg",
+          "thumb": "/images/issues/20/original/20260706-issue-16-34.jpeg"
+        },
+        {
+          "original": "/images/issues/20/original/20260706-issue-16-35.jpeg",
+          "thumb": "/images/issues/20/original/20260706-issue-16-35.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 21,
+      "title": "小区游乐场维护不到位，儿童沙坑无沙",
+      "description": "小区游乐场维护不到位，小孩沙坑没沙子，全是鹅卵石。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区游乐场",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/21/original/20260706-issue-29-55.jpeg",
+          "thumb": "/images/issues/21/original/20260706-issue-29-55.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 22,
+      "title": "小区围墙灯损坏",
+      "description": "小区围墙灯损坏。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区围墙",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/22/original/20260706-issue-17-36.jpeg",
+          "thumb": "/images/issues/22/original/20260706-issue-17-36.jpeg"
+        },
+        {
+          "original": "/images/issues/22/original/20260706-issue-17-37.jpeg",
+          "thumb": "/images/issues/22/original/20260706-issue-17-37.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 23,
+      "title": "小区楼前椅子质量差、数量少",
+      "description": "小区楼前椅子质量差且又小又少。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区楼前",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/23/original/20260706-issue-38-62.jpeg",
+          "thumb": "/images/issues/23/original/20260706-issue-38-62.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 24,
+      "title": "小区院内地面、地砖多处严重损坏",
+      "description": "小区院内地面、地砖多处严重损坏，物业失护失修。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区院内",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/24/original/20260706-issue-18-38.jpeg",
+          "thumb": "/images/issues/24/original/20260706-issue-18-38.jpeg"
+        },
+        {
+          "original": "/images/issues/24/original/20260706-issue-18-39.jpeg",
+          "thumb": "/images/issues/24/original/20260706-issue-18-39.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 25,
+      "title": "绿化杂草丛生，遛狗不牵绳、粪便不清理，物业未管控",
+      "description": "绿化杂草丛生没人管，遛狗不牵绳物业未管控，狗随地大便不清理。",
+      "location": "小区",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "安全管理",
+      "responsibleUnit": "物业公司",
+      "viewCount": 2,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/25/original/1784817403876_46c54951.jpg",
+          "thumb": "/images/issues/25/thumb/1784817403876_46c54951.jpg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 26,
+      "title": "楼栋一楼大厅包角差且瓷砖损坏",
+      "description": "楼栋1楼大厅棱角包角太差，每栋瓷砖均有损坏。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋一楼大厅",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "房屋维修",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/26/original/20260706-issue-3-5.jpeg",
+          "thumb": "/images/issues/26/original/20260706-issue-3-5.jpeg"
+        },
+        {
+          "original": "/images/issues/26/original/20260706-issue-3-6.jpeg",
+          "thumb": "/images/issues/26/original/20260706-issue-3-6.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 27,
+      "title": "小区死树未清除补种",
+      "description": "小区死树不清除补种。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区绿化区域",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "绿化",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/27/original/20260706-issue-47-73.jpeg",
+          "thumb": "/images/issues/27/original/20260706-issue-47-73.jpeg"
+        },
+        {
+          "original": "/images/issues/27/original/20260706-issue-47-74.jpeg",
+          "thumb": "/images/issues/27/original/20260706-issue-47-74.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 32,
+      "title": "物业收支、维保记录、公共收益不公示",
+      "description": "物业收支、维保记录、公共收益不公示，物业要定期公布物业收支明细。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "物业服务中心",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共收益",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/32/original/20260706-issue-36-61.jpeg",
+          "thumb": "/images/issues/32/original/20260706-issue-36-61.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 33,
+      "title": "楼栋消防栓内缺少入户灭火软管",
+      "description": "楼栋内消防安全栓里入户灭火软管缺失。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋消防设施",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "消防",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/33/original/20260706-issue-42-64.jpeg",
+          "thumb": "/images/issues/33/original/20260706-issue-42-64.jpeg"
+        },
+        {
+          "original": "/images/issues/33/original/20260706-issue-42-65.jpeg",
+          "thumb": "/images/issues/33/original/20260706-issue-42-65.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 36,
+      "title": "1、5、7、8号楼垃圾桶需更换封闭式箱式垃圾桶",
+      "description": "需要把小区1号楼、5号楼、7号楼和8号楼垃圾桶更换封闭式箱式的。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "1、5、7、8号楼",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "垃圾站",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/36/original/20260706-issue-30-56.jpeg",
+          "thumb": "/images/issues/36/original/20260706-issue-30-56.jpeg"
+        },
+        {
+          "original": "/images/issues/36/original/20260706-issue-30-57.jpeg",
+          "thumb": "/images/issues/36/original/20260706-issue-30-57.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 38,
+      "title": "南门西侧车位南边废品需清走或围挡",
+      "description": "小区南门西侧车位南边存放的废品清走或围挡。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "南门西侧车位南边",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "卫生",
+      "responsibleUnit": "物业公司",
+      "viewCount": 2,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/38/original/20260706-issue-31-58.jpeg",
+          "thumb": "/images/issues/38/original/20260706-issue-31-58.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 39,
+      "title": "未在单元显著位置公布物业及物管会电话",
+      "description": "小区物业未在单元显著位置公布物业电话物管会电话。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各单元",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "物业服务",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/39/original/20260706-issue-33-60.jpeg",
+          "thumb": "/images/issues/39/original/20260706-issue-33-60.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 40,
+      "title": "小区物业需每天至少清运两次楼栋下垃圾",
+      "description": "小区物业每天至少安排清运两次楼栋下垃圾桶垃圾。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋垃圾桶点位",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "垃圾站",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/40/original/20260706-issue-21-45.jpeg",
+          "thumb": "/images/issues/40/original/20260706-issue-21-45.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 42,
+      "title": "各楼栋电梯脚垫需定期更换",
+      "description": "各楼栋电梯脚垫要定期更换。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋电梯",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "卫生",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/42/original/20260706-issue-8-17.jpeg",
+          "thumb": "/images/issues/42/original/20260706-issue-8-17.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 43,
+      "title": "各楼栋防火栓门框松动、玻璃脱落及门体失修",
+      "description": "各楼栋防火栓门框松动、玻璃脱落，门体失修。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋消防栓",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "消防",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/43/original/20260706-issue-7-14.jpeg",
+          "thumb": "/images/issues/43/original/20260706-issue-7-14.jpeg"
+        },
+        {
+          "original": "/images/issues/43/original/20260706-issue-7-15.jpeg",
+          "thumb": "/images/issues/43/original/20260706-issue-7-15.jpeg"
+        },
+        {
+          "original": "/images/issues/43/original/20260706-issue-7-16.jpeg",
+          "thumb": "/images/issues/43/original/20260706-issue-7-16.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 45,
+      "title": "小区水系积水腐臭、设施失管失修",
+      "description": "小区水系积水腐臭，其中设施失管失修。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "小区水系",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "卫生",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/45/original/20260706-issue-23-46.jpeg",
+          "thumb": "/images/issues/45/original/20260706-issue-23-46.jpeg"
+        },
+        {
+          "original": "/images/issues/45/original/20260706-issue-23-47.jpeg",
+          "thumb": "/images/issues/45/original/20260706-issue-23-47.jpeg"
+        },
+        {
+          "original": "/images/issues/45/original/20260706-issue-23-48.jpeg",
+          "thumb": "/images/issues/45/original/20260706-issue-23-48.jpeg"
+        },
+        {
+          "original": "/images/issues/45/original/20260706-issue-23-49.jpeg",
+          "thumb": "/images/issues/45/original/20260706-issue-23-49.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 47,
+      "title": "地下车库有积水、渗水现象",
+      "description": "地下车库有积水、渗水现象，照明不足，标志牌不明显。照明与标志牌问题已在现有拆分问题中单独跟进。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "地下车库",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "停车",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/47/original/20260706-issue-2-2.jpeg",
+          "thumb": "/images/issues/47/original/20260706-issue-2-2.jpeg"
+        },
+        {
+          "original": "/images/issues/47/original/20260706-issue-2-3.jpeg",
+          "thumb": "/images/issues/47/original/20260706-issue-2-3.jpeg"
+        },
+        {
+          "original": "/images/issues/47/original/20260706-issue-2-4.jpeg",
+          "thumb": "/images/issues/47/original/20260706-issue-2-4.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 50,
+      "title": "垃圾桶未及时清理，晚上垃圾严重外溢",
+      "description": "垃圾桶不及时清理，晚上垃圾严重外溢",
+      "location": "垃圾桶点位",
+      "shotDate": "2026-07-18",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "垃圾站",
+      "responsibleUnit": "物业公司",
+      "viewCount": 8,
+      "createdAt": "2026-07-18T05:59:54.156Z",
+      "photos": [
+        {
+          "original": "/images/issues/50/original/1784815575188_2ce21ccc.png",
+          "thumb": "/images/issues/50/thumb/1784815575188_2ce21ccc.png"
+        }
+      ],
+      "videos": [
+        "/images/issues/50/videos/1784815263215_42bbf100.mp4"
+      ],
+      "rectificationRecords": []
+    },
+    {
+      "id": 53,
+      "title": "公共区域本体维修维护不及时",
+      "description": "公共区域本体维修维护不及时，楼道墙面掉皮、屋面漏水、楼梯扶手损坏较为普遍。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "楼道、屋面及楼梯",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "房屋维修",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T15:39:31.147Z",
+      "photos": [
+        {
+          "original": "/images/issues/53/original/20260706-issue-4-7.jpeg",
+          "thumb": "/images/issues/53/original/20260706-issue-4-7.jpeg"
+        },
+        {
+          "original": "/images/issues/53/original/20260706-issue-4-8.jpeg",
+          "thumb": "/images/issues/53/original/20260706-issue-4-8.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 54,
+      "title": "楼栋楼梯内墙面渗水开裂、吊顶脱落",
+      "description": "楼栋楼梯内墙面渗水、开裂、吊顶脱落，物业不管控维护。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋楼梯",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "房屋维修",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T15:39:31.417Z",
+      "photos": [
+        {
+          "original": "/images/issues/54/original/20260706-issue-5-9.jpeg",
+          "thumb": "/images/issues/54/original/20260706-issue-5-9.jpeg"
+        },
+        {
+          "original": "/images/issues/54/original/20260706-issue-5-10.jpeg",
+          "thumb": "/images/issues/54/original/20260706-issue-5-10.jpeg"
+        },
+        {
+          "original": "/images/issues/54/original/20260706-issue-5-11.jpeg",
+          "thumb": "/images/issues/54/thumb/20260706-issue-5-11.jpg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 55,
+      "title": "地下水管漏水及公用下水道堵塞反水",
+      "description": "地下水管漏水，公用下水道堵塞导致反水到业主家里。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "地下管网及公用下水道",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "房屋维修",
+      "responsibleUnit": "物业公司",
+      "viewCount": 0,
+      "createdAt": "2026-07-18T15:39:31.687Z",
+      "photos": [
+        {
+          "original": "/images/issues/55/original/20260706-issue-6-12.jpeg",
+          "thumb": "/images/issues/55/original/20260706-issue-6-12.jpeg"
+        },
+        {
+          "original": "/images/issues/55/original/20260706-issue-6-13.jpeg",
+          "thumb": "/images/issues/55/original/20260706-issue-6-13.jpeg"
+        },
+        {
+          "original": "/images/issues/55/original/20260706-issue-6-11.jpeg",
+          "thumb": "/images/issues/55/thumb/20260706-issue-6-11.jpg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 56,
+      "title": "电梯照明不亮，9号楼电梯故障频发",
+      "description": "电梯灯不亮不修，尤其9号楼电梯故障经常发生，甚至有常维护常故障现象发生。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋电梯，重点为9号楼",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "公共设施",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-18T15:39:32.949Z",
+      "photos": [
+        {
+          "original": "/images/issues/56/original/20260706-issue-13-27.jpeg",
+          "thumb": "/images/issues/56/original/20260706-issue-13-27.jpeg"
+        },
+        {
+          "original": "/images/issues/56/original/20260706-issue-13-28.jpeg",
+          "thumb": "/images/issues/56/original/20260706-issue-13-28.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 57,
+      "title": "9号楼与10号楼单元后侧门禁失效",
+      "description": "9号楼与10号楼单元后侧门禁失效，存在外来人员随意进入问题。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "9号楼与10号楼单元后侧",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "门禁",
+      "responsibleUnit": "物业公司",
+      "viewCount": 3,
+      "createdAt": "2026-07-18T15:39:35.987Z",
+      "photos": [
+        {
+          "original": "/images/issues/57/original/20260706-issue-43-66.jpeg",
+          "thumb": "/images/issues/57/original/20260706-issue-43-66.jpeg"
+        },
+        {
+          "original": "/images/issues/57/original/20260706-issue-43-67.jpeg",
+          "thumb": "/images/issues/57/original/20260706-issue-43-67.jpeg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 58,
+      "title": "楼栋内楼梯安全标志牌脱落损坏",
+      "description": "楼栋内楼梯内安全标志牌脱落损坏。\n\n来源：绿地新里城尔雅公馆住宅小区物业服务问题清单（2026.7.6）",
+      "location": "各楼栋楼梯",
+      "shotDate": "2026-07-06",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "安全管理",
+      "responsibleUnit": "物业公司",
+      "viewCount": 5,
+      "createdAt": "2026-07-18T15:39:36.151Z",
+      "photos": [
+        {
+          "original": "/images/issues/58/original/20260706-issue-44-68.jpeg",
+          "thumb": "/images/issues/58/original/20260706-issue-44-68.jpeg"
+        },
+        {
+          "original": "/images/issues/58/original/20260706-issue-44-24.jpeg",
+          "thumb": "/images/issues/58/thumb/20260706-issue-44-24.jpg"
+        }
+      ],
+      "videos": [],
+      "rectificationRecords": []
+    },
+    {
+      "id": 61,
+      "title": "垃圾桶溢出没人清理",
+      "description": "",
+      "location": "",
+      "shotDate": "2026-07-23",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "垃圾站",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-23T14:21:47.507Z",
+      "photos": [
+        {
+          "original": "/images/issues/61/original/1784816496829_21038de9.png",
+          "thumb": "/images/issues/61/thumb/1784816496829_21038de9.png"
+        }
+      ],
+      "videos": [
+        "/images/issues/61/videos/1784816504901_4c1611f.mp4"
+      ],
+      "rectificationRecords": []
+    },
+    {
+      "id": 62,
+      "title": "竹林围栏没人管",
+      "description": "",
+      "location": "",
+      "shotDate": "2026-07-23",
+      "status": "pending",
+      "resolvedAt": null,
+      "resolution": null,
+      "category": "绿化",
+      "responsibleUnit": "物业公司",
+      "viewCount": 1,
+      "createdAt": "2026-07-23T14:33:15.719Z",
+      "photos": [
+        {
+          "original": "/images/issues/62/original/1784817193101_3d9837ff.jpg",
+          "thumb": "/images/issues/62/original/1784817193101_3d9837ff.jpg"
+        }
+      ],
+      "videos": [
+        "/images/issues/62/videos/1784817165785_5319935e.mp4"
+      ],
+      "rectificationRecords": []
+    }
+  ]
+}
