@@ -1,1 +1,0 @@
-function a(l){let n=l;if(typeof n=="string")try{n=JSON.parse(n)}catch{return[]}return Array.isArray(n)?n.map(r=>{if(typeof r=="string"){const i=r.trim();return i?{original:i}:null}if(!r||typeof r!="object")return null;const t=typeof r.original=="string"?r.original.trim():"";return t?{...r,original:t}:null}).filter(r=>r!==null):[]}export{a as n};
